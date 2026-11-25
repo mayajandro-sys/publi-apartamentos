@@ -1,21 +1,23 @@
 # Publi apartamentos
 
-Repositorio para guardar toda la información relevante de la publicidad en Instagram de nuestros apartamentos turísticos.
+Repositorio con toda la información y los procesos para captar más huéspedes para nuestros apartamentos turísticos con Instagram.
 
-## Objetivo
+**¿Primera vez aquí?** Empieza por [00-empieza-aqui](00-empieza-aqui/README.md).
 
-Captar más huéspedes para los apartamentos mediante anuncios y contenido en Instagram, y medir qué funciona para mejorar cada campaña.
+## Cómo está organizado
 
-## Estructura
+Las carpetas están numeradas en el orden en que se hace el trabajo. En cada una hay:
 
-| Carpeta | Qué guardamos |
-|---|---|
-| `marca/` | Identidad de marca: logo, colores, tipografías, tono de voz, público objetivo y propuesta de valor de los apartamentos. |
-| `anuncios/` | Campañas de Instagram Ads: textos, creatividades, segmentación, presupuesto y fechas de cada campaña. |
-| `contenido/` | Publicaciones orgánicas: calendario, ideas, carruseles, reels, stories y fotos de los apartamentos. |
-| `resultados/` | Métricas e informes: alcance, clics, coste por resultado, reservas conseguidas y aprendizajes. |
+- **SOP**: el paso a paso explicado, para hacerlo siempre igual de bien.
+- **Checklist**: casillas para marcar mientras lo haces. Copia la checklist, márcala y guárdala con la fecha.
+- **Plantillas**: documentos para rellenar.
 
-## Cómo usarlo
-
-- Cada campaña nueva tiene su propia subcarpeta en `anuncios/` con el formato `AAAA-MM-nombre-campaña`.
-- Al terminar una campaña, añadimos su informe en `resultados/` con el mismo nombre.
+| Carpeta | Para qué sirve | Cada cuánto |
+|---|---|---|
+| [00-empieza-aqui](00-empieza-aqui/) | Cómo usar el repositorio, glosario y calendario de tareas | Consulta |
+| [01-marca](01-marca/) | Huésped ideal, qué nos hace especiales y tono de voz | Una vez, revisar cada 6 meses |
+| [02-contenido](02-contenido/) | Fotos, vídeos y publicaciones (posts, carruseles, reels) | Cada semana |
+| [03-anuncios](03-anuncios/) | Crear y lanzar campañas de pago en Instagram | Cada campaña |
+| [04-mensajes-y-reservas](04-mensajes-y-reservas/) | Convertir mensajes de Instagram en reservas | Cada día |
+| [05-resultados](05-resultados/) | Revisar números y aprender qué funciona | Cada semana y cada mes |
+| [plantillas](plantillas/) | Todas las plantillas juntas | Consulta |
